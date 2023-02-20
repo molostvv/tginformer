@@ -1,0 +1,14 @@
+{
+    "name": "molostvov/vspace.tginformer",
+    "description": "Модуль для отправки уведомлений в telegram",
+    "type": "bitrix-d7-module",
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Valeriy Molostvov",
+            "email": "molostvv@mail.ru"
+        }
+    ]
+}
